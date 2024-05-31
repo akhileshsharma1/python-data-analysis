@@ -1,0 +1,5 @@
+1. Perform More Analysis , take more columns and perform questions and answers like what is the average capacity in each province or other types of categories
+2. Try to visualize the latitude and longitude and show in plot the concentrated areas of nepal that have hydropowers
+3. Which regions have the oldest and newest hydropowers, which have the longest running projects and which are the fast shutting down ones
+4. Make the Plot more visually appealing by adding annotations on top of bar or line, proper x-labels, y-labels and plot titles, stick to a consistent theme
+5. Use different types of plots like box and whisker plot, correlation matrix etc.
